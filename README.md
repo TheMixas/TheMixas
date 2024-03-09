@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.gustasrove.software/](https://www.gustasrove.software/)
 
-- 📫 How to reach me **rovegustas@gmail.com**
+- 📫 You can reach me at **rovegustas@gmail.com**
 
 
 
