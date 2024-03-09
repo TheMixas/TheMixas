@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gustas</h1>
 <h3 align="center">I love programming and am commited to improving every day</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themixas" alt="themixas" /></a> </p>
-
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [https://www.gustasrove.software/](https://www.gustasrove.software/)
