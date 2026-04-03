@@ -1,6 +1,6 @@
 # Hey, I'm Gustas 👋
  
-Software Engineering student at Swansea University (BSc Hons, 2024–2027). I like building things from the ground up - no black boxes, just code.
+Software Engineering student at Swansea University (BSc Hons, 2024–2027).
  
 ## What I'm working on
  
