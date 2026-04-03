@@ -1,10 +1,10 @@
 # Hey, I'm Gustas 👋
  
-Software Engineering student at Swansea University (BSc Hons, 2024–2027). I like building things from the ground up — no wrappers, no magic, just code.
+Software Engineering student at Swansea University (BSc Hons, 2024–2027). I like building things from the ground up - no wrappers, no magic, just code.
  
 ## What I'm working on
  
-**[Ryklys](https://github.com/TheMixas/ryklys)** — A live streaming platform built from scratch. Custom C++ HTTP server with epoll, WebRTC ingest, FFmpeg transcoding to HLS, Redis pub/sub chat, PostgreSQL. React + TypeScript frontend. No off-the-shelf backend frameworks.
+**[Ryklys](https://github.com/TheMixas/ryklys)** - A live streaming platform built from scratch. Custom C++ HTTP server with epoll, WebRTC ingest, FFmpeg transcoding to HLS, Redis pub/sub chat, PostgreSQL. React + TypeScript frontend. No off-the-shelf backend frameworks.
  
 ## What I'm interested in
  
