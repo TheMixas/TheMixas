@@ -13,5 +13,4 @@ Systems programming, low-latency networking, high-frequency trading infrastructu
 ## Get in touch
  
 **Email:** rovegustas@gmail.com
-**GitHub:** [TheMixas](https://github.com/TheMixas)
  
