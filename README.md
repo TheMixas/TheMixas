@@ -14,7 +14,7 @@ Systems programming, low-latency networking, high-frequency trading infrastructu
 
 ## Other projects
 
-**[jewel-thief](https://github.com/TheMixas/jewel-thief)** — Tile-based puzzle game 
+**[jewel-thief](https://github.com/MaxMiddletonDev/Jewel-Thief-Coursework)** — Tile-based puzzle game 
 built in Java/JavaFX as a 9-person university team. Designed the screen management 
 system and co-developed the core game loop.
 
