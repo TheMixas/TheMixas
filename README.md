@@ -4,7 +4,7 @@ Software Engineering student at Swansea University (BSc Hons, 2024–2027).
  
 ## What I'm working on
 
-**[Ryklys](https://github.com/TheMixas/ryklys)** - A live streaming platform built from scratch. Custom C++ HTTP server with epoll, WebRTC ingest, FFmpeg transcoding to HLS, Redis pub/sub chat, PostgreSQL. React + TypeScript frontend. No off-the-shelf backend frameworks.
+**[Ryklys](https://github.com/TheMixas/ryklys)** - A live streaming platform built from scratch. Custom C++ HTTP and WebSocket server with epoll, WebRTC ingest, FFmpeg transcoding to HLS, Redis pub/sub chat, PostgreSQL. React + TypeScript frontend. No off-the-shelf backend frameworks.
 
 **[itch-parser](https://github.com/TheMixas/itch-parser)** - Nasdaq ITCH 5.0 binary protocol parser. Parses 268M messages from a full trading day at 170M msg/sec. Zero-copy mmap, SoupBinTCP framing, all message types. Foundation for an in-progress limit order book.
  
