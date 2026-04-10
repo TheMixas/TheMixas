@@ -11,7 +11,13 @@ Software Engineering student at Swansea University (BSc Hons, 2024–2027).
 ## What I'm interested in
  
 Systems programming, low-latency networking, high-frequency trading infrastructure, and anything where performance matters at the metal level.
- 
+
+## Other projects
+
+**[jewel-thief](https://github.com/TheMixas/jewel-thief)** — Tile-based puzzle game 
+built in Java/JavaFX as a 9-person university team. Designed the screen management 
+system and co-developed the core game loop.
+
 ## Get in touch
  
 **Email:** rovegustas@gmail.com
