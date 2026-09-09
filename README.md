@@ -8,6 +8,7 @@ Software Engineering student at Swansea University (BSc Hons, 2024–2027).
 
 ### Operating System projects
 **[Vilkas-x86](https://github.com/TheMixas/Vilkas-x86)** - 32-bit x86 Kernel from scratch: interrupts, exception handling, and a growing path toward paging, scheduling, and a filesystem.
+
 **[Vilkas-x86-cpp](https://github.com/TheMixas/Vilkas-x86-cpp)** - Everything above, but the kernel is written in C++.
 
 
