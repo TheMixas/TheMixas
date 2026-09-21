@@ -7,9 +7,9 @@ Computer Science student at Swansea University (BSc Hons, 2024–2027).
 **[Ryklys](https://github.com/TheMixas/ryklys)** - A live streaming platform built from scratch. Custom C++ HTTP and WebSocket server with epoll, WebRTC ingest, FFmpeg transcoding to HLS, Redis pub/sub chat, PostgreSQL. React + TypeScript frontend. No off-the-shelf backend frameworks.
 
 ### Operating System projects
-**[Vilkas-x86](https://github.com/TheMixas/Vilkas-x86)** - 32-bit x86 Kernel from scratch: interrupts, exception handling, and a growing path toward paging, scheduling, and a filesystem.
+**[Vilkas-x86-cpp](https://github.com/TheMixas/Vilkas-x86-cpp)** - 64-bit x86 kernel written from scratch in C++: long mode boot, paging, a GDT and IDT, and exception handling with register and page-fault reporting. Currently working on hardware interrupts and a physical memory allocator.
 
-**[Vilkas-x86-cpp](https://github.com/TheMixas/Vilkas-x86-cpp)** - Everything above, but the kernel is written in C++.
+**[Vilkas-x86](https://github.com/TheMixas/Vilkas-x86)** - Everything above, but the kernel is written in C.
 
 
 ### Low-latency projects
