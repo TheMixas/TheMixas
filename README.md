@@ -17,8 +17,6 @@ Final-year Computer Science student at Swansea University (BSc Hons, 2024–2027
 ### Operating System projects
 **[Vilkas-x86-cpp](https://github.com/TheMixas/Vilkas-x86-cpp)** - 64-bit x86 kernel written from scratch in C++: long mode boot, paging, a GDT and IDT, and exception handling with register and page-fault reporting. Currently working on hardware interrupts and a physical memory allocator.
 
-**[Vilkas-x86](https://github.com/TheMixas/Vilkas-x86)** - Everything above, but the kernel is written in C.
-
 
 ### Low-latency projects
 **[itch-parser](https://github.com/TheMixas/itch-parser)** - Nasdaq ITCH 5.0 binary protocol parser. Parses 268M messages from a full trading day at 170M msg/sec. Zero-copy mmap, SoupBinTCP framing, all message types. Foundation for an in-progress limit order book.
